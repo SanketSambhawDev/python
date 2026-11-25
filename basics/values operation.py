@@ -1,0 +1,13 @@
+a=2
+b=3
+c=4
+a+=3
+b-=3
+c*=4
+a/=3
+b//=4
+c**=4
+print(a,b,c)
+print(type(a))
+print(type(b))
+print(type(c))

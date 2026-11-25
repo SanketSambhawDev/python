@@ -1,0 +1,10 @@
+a=2
+b=9
+print(a&b)
+c=5
+d=6
+print(c|d)
+print(a>>2)
+print(b<<3)
+print(a^b)
+print(~a)
